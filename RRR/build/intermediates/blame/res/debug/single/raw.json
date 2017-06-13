@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\beep.wav",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\beep.wav"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\consumer_onesignal_keep.xml",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\exploded-aar\\com.onesignal\\OneSignal\\3.4.3\\res\\raw\\consumer_onesignal_keep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\music.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\button_6.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\button_6.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\beep.wav",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\beep.wav"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\score.wav",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\score.wav"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\button_9.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\button_9.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_lefteye_2splits.xml",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\haarcascade_lefteye_2splits.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\button_6.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\button_6.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\button_3.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\button_3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\button_9.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\button_9.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\consumer_onesignal_keep.xml",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\exploded-aar\\com.onesignal\\OneSignal\\3.4.3\\res\\raw\\consumer_onesignal_keep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_lefteye_2splits.xml",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\haarcascade_lefteye_2splits.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\music.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\score.wav",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\score.wav"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\button_3.mp3",
+        "source": "C:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\src\\main\\res\\raw\\button_3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "C:\\Users\\Sundeep\\Desktop\\eyeTrackSample-master\\RRR\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    }
+]

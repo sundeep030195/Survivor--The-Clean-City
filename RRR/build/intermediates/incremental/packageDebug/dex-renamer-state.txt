@@ -1,0 +1,4 @@
+#Sat Feb 11 08:31:31 PST 2017
+base.0=C\:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Sundeep\\Desktop\\UNDEFINED_PROJECT\\RRR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

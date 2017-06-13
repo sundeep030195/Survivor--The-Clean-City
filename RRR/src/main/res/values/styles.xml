@@ -1,0 +1,27 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="AlertDialog.AppCompat.Light"/>
+    <!-- Base application theme. -->
+
+    <style name="AppTheme2" parent="@android:style/Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/CustomerActionBar</item>
+    </style>
+    <style
+        name="CustomerActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@android:color/holo_purple</item>
+        <item name="android:titleTextStyle">@style/CustomtextColor</item>
+    </style>
+    <style name="CustomtextColor" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:titleTextStyle">@android:style/Animation</item>
+    </style>
+</resources>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_38cc9449463a4bb2ba675f800441393e6796684f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\UNDEFINED_PROJECT\openCVLibrary300\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="185b9dc5038ce87ebabb9f91e9e646d30d07ecc0">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\UNDEFINED_PROJECT-openCVLibrary300-unspecified_c6e59cb7a21adb839b02967019c6842c69df2790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_2aaea84c5742983ae3fd5276161f5bc1d9ae42eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_f457f2b5fd8575e6a03e30750efe6769b7a7aacc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_5e92c70acb7c6b935b7eff9d913870dc712c0940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_6ba31a0627364756ce39c93adeb2a20ca684b45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_7eeaf74575795ff3b0befa3853e8dd818b9ebde1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_bc94df8d66db140ffd956cc436002e3cbbccce76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_f7cc4c1300bdfd7028111884ad68cb07ad20a837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_bac8730eb310de1b0c2d2d096a37694a978820ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e6ecaea1e8dd0d0aaecd71034334ea288d2dfeb">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.onesignal-OneSignal-3.4.3_4c238ab280912239e65203d8e257dc0a428f2173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_e2b04763bc6fd57a16e69da6fcb888f836a75483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_14921666ba39ac33a7e51087763cd30306d12b40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_db5416d6183d5a27dbe6bd64a72a2f5cce11614a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_ab1c0c4117d2b653353048c51c760b0d2dfe7c0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_425917f6c43d1878df026156388684c27b1663d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_59552a591338ee488a793989e95396f9409c2421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_3b2c3efb18170ca500b0dcc89a95dd3eaebc0c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_95fe5a8aafe6c004ab5f3a2e4cff904d51045386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_3c0093974a4a6db3a3f254f9417652c090fd9a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_0cb101b27cd46306ae8fbf1e108f06a79e0770d4.jar" />
+    </item>
+
+</items>

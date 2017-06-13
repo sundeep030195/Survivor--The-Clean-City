@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#44e6f0"
+    >
+
+
+       <!-- <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/img"
+            android:layout_centerInParent="true"
+            android:background="@drawable/background"
+            />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img"
+        android:layout_centerInParent="true"
+        android:background="@drawable/background1"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img"
+        android:layout_centerInParent="true"
+        android:background="@drawable/background2"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img"
+        android:layout_centerInParent="true"
+        android:background="@drawable/background3"
+        />
+-->
+
+    <EditText
+        android:id="@+id/namebox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:hint="@string/Highscore_hint"
+        android:inputType="text"
+        android:maxLength="10" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/namebox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:minWidth="100dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/Save_highscore"
+        android:textColor="#282828" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView2"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_marginBottom="39dp"
+        android:text="@string/Enter_highscore_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#282828" />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="39dp"
+        android:text="@string/highscore_facts"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#282828" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/namebox"
+        android:layout_alignLeft="@+id/namebox"
+        android:layout_marginBottom="62dp"
+        android:text="@string/Enter_highscore_comment"
+        android:textColor="#282828" />
+
+</RelativeLayout>

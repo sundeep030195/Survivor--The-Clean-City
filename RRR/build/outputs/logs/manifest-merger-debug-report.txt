@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:3:11-49
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:5:11-34
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:40:5-79:19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:10:9-46
+	android:theme
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:11:9-51
+activity#in.undefined.survivor.detect.FdActivity
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:14:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:16:19-56
+	android:label
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:15:19-51
+	android:configChanges
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:17:19-69
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:14:19-73
+activity#in.undefined.survivor.detect.StartActivity
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:20:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:20:19-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:25:27-74
+activity#in.undefined.survivor.airovips.AriovipsMain
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:28:9-29:51
+	android:screenOrientation
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:28:19-77
+activity#in.undefined.survivor.airovips.EnterHiscore
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:30:9-31:51
+	android:screenOrientation
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:30:19-77
+activity#in.undefined.survivor.quizz.Splash
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:32:9-33:51
+	android:screenOrientation
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:32:19-68
+activity#in.undefined.survivor.quizz.QuizzActivity
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:34:9-35:51
+	android:screenOrientation
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:34:19-75
+activity#in.undefined.survivor.quizz.ResultActivity
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:36:9-37:51
+	android:screenOrientation
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:36:19-76
+supports-screens
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:40:5-44:51
+	android:largeScreens
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:43:23-50
+	android:smallScreens
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:41:23-50
+	android:normalScreens
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:42:23-51
+	android:resizeable
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:40:23-48
+	android:anyDensity
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:44:23-48
+uses-sdk
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:46:5-44
+MERGED from [UNDEFINED_PROJECT:openCVLibrary300:unspecified] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\UNDEFINED_PROJECT\openCVLibrary300\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:design:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.android.support\design\25.1.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:46:15-41
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:48:5-64
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:48:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:50:5-84
+	android:required
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:50:58-82
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:50:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:51:5-94
+	android:required
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:51:68-92
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:51:19-67
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:52:5-90
+	android:required
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:52:64-88
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:52:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:53:5-100
+	android:required
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:53:74-98
+	android:name
+		ADDED from C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\src\main\AndroidManifest.xml:53:19-73
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:14:22-64
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:15:5-82
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:15:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:23:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:25:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:25:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:26:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:26:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:27:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:28:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:28:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:29:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:29:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:30:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:30:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:32:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:32:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:33:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:33:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:34:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:34:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:35:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:35:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:36:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:36:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:37:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:37:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:38:22-80
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:41:9-43:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:43:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:42:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:44:9-46:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:46:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:45:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:48:9-56:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:50:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:49:13-62
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:51:13-55:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:52:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:52:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:54:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:54:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:57:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:57:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:59:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:59:18-63
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:60:9-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:60:18-58
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:62:9-64:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:64:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:63:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:66:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:66:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:68:9-73:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:68:19-62
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:69:13-72:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:70:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:70:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:71:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:74:9-78:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:74:19-63
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:75:13-77:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:76:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.4.3] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.3\AndroidManifest.xml:76:25-81
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sundeep\Desktop\UNDEFINED_PROJECT\RRR\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:20-65
